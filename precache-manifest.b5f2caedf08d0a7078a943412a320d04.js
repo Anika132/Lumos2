@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19f31b905be83aaebf268592085039ca",
+    "revision": "5882cc8cace0f13f1e2ea3f39fa3dae2",
     "url": "/Lumos2/index.html"
   },
   {
-    "revision": "e80d0b216982db9c838b",
+    "revision": "a79fd3e3d41add4009dd",
     "url": "/Lumos2/static/css/main.1408b8a3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lumos2/static/js/2.07ce042d.chunk.js"
   },
   {
-    "revision": "e80d0b216982db9c838b",
-    "url": "/Lumos2/static/js/main.99f22034.chunk.js"
+    "revision": "a79fd3e3d41add4009dd",
+    "url": "/Lumos2/static/js/main.9d9e6031.chunk.js"
   },
   {
     "revision": "207218f4379c56a6d74e",
