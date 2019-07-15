@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Lumos2/static/css/main.2dd36b0b.chunk.css",
-    "main.js": "/Lumos2/static/js/main.d20aa82a.chunk.js",
-    "main.js.map": "/Lumos2/static/js/main.d20aa82a.chunk.js.map",
+    "main.js": "/Lumos2/static/js/main.89b14025.chunk.js",
+    "main.js.map": "/Lumos2/static/js/main.89b14025.chunk.js.map",
     "runtime~main.js": "/Lumos2/static/js/runtime~main.48e7adb1.js",
     "runtime~main.js.map": "/Lumos2/static/js/runtime~main.48e7adb1.js.map",
-    "static/js/2.2d717d70.chunk.js": "/Lumos2/static/js/2.2d717d70.chunk.js",
-    "static/js/2.2d717d70.chunk.js.map": "/Lumos2/static/js/2.2d717d70.chunk.js.map",
+    "static/js/2.d152304f.chunk.js": "/Lumos2/static/js/2.d152304f.chunk.js",
+    "static/js/2.d152304f.chunk.js.map": "/Lumos2/static/js/2.d152304f.chunk.js.map",
     "index.html": "/Lumos2/index.html",
-    "precache-manifest.f767984a25fadbfd92e9df1e20c12ff9.js": "/Lumos2/precache-manifest.f767984a25fadbfd92e9df1e20c12ff9.js",
+    "precache-manifest.c4f71c2e7f4f3e56509501c75a32e9aa.js": "/Lumos2/precache-manifest.c4f71c2e7f4f3e56509501c75a32e9aa.js",
     "service-worker.js": "/Lumos2/service-worker.js",
     "static/css/main.2dd36b0b.chunk.css.map": "/Lumos2/static/css/main.2dd36b0b.chunk.css.map",
     "static/media/logo.png": "/Lumos2/static/media/logo.4abded6e.png"
